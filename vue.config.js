@@ -1,7 +1,7 @@
 module.exports = {
     // 前端如何解决跨域
     devServer:{
-        host:"localhsot",
+        host:"localhost",
         port:8080,
         // proxy:{
         //     '/api':{

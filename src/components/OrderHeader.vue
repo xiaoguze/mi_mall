@@ -1,12 +1,12 @@
 <template>
   <div>
-      <!-- 商品详情 -->
+      <!-- 订单头部组件 -->
   </div>
 </template>
 
 <script>
 export default {
-    name:"Order"
+    name:"OrderHeader"
 }
 </script>
 
